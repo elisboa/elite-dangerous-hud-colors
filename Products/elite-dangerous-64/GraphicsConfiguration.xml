@@ -52,9 +52,9 @@
 	<GUIColour>
 		<Default>
 			<LocalisationName>Standard</LocalisationName>
-			<MatrixRed>		1, 0, 0 </MatrixRed>
-			<MatrixGreen>	0, 1, 0 </MatrixGreen>
-			<MatrixBlue>	0, 0, 1 </MatrixBlue>
+			<MatrixRed>		0.50, 0.50, 1 </MatrixRed>
+			<MatrixGreen>	1, 1, 1 </MatrixGreen>
+			<MatrixBlue>	1, 0, 1 </MatrixBlue>
 		</Default>
 		<RedToBlueTest>
 			<LocalisationName>RedToBlueTest</LocalisationName>
