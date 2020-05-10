@@ -1,6 +1,9 @@
 # elite-dangerous-hud-colors
 [Elite: Dangerous](https://www.elitedangerous.com/) customized HUD Colors
 
+## Files
+[Products/elite-dangerous-64/GraphicsConfiguration.xml](Products/elite-dangerous-64/GraphicsConfiguration.xml)
+
 ## Intro
 
 This repository keeps my HUD colors customization for the game Elite: Dangerous
