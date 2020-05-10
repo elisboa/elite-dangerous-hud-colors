@@ -29,3 +29,13 @@ You must edit the file GraphicsConfiguration.xml and change this section:
 ## References
 
 [This site](http://arkku.com/elite/hud_editor/) helps you preview your customizations before you apply it on your file.
+
+![HUD Customization made by me](2020-05-10_10-08.png)
+
+
+
+
+
+
+
+![HUD Customization parameters](2020-05-10_10-09.png)
